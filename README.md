@@ -1,4 +1,4 @@
-# Olá! Eu sou Anderson Chaves da Cruz 👋
+# Olá! Eu sou Anderson 👋
 
 Sou formado em **Análise e Desenvolvimento de Sistemas pela UniCesumar** e estou em transição de carreira para a área de tecnologia.
 
